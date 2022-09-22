@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pine-portfolio/static/css/main.9bd7a35e.css",
-    "main.js": "/pine-portfolio/static/js/main.1adb1ded.js",
-    "static/media/Me.jpg": "/pine-portfolio/static/media/Me.be4b24fb5552ab2243a6.jpg",
-    "static/media/gitlab-logo-100.jpg": "/pine-portfolio/static/media/gitlab-logo-100.1c1ad852e30f94688c6b.jpg",
-    "static/media/GitHub_Logo.png": "/pine-portfolio/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
-    "index.html": "/pine-portfolio/index.html",
-    "main.9bd7a35e.css.map": "/pine-portfolio/static/css/main.9bd7a35e.css.map",
-    "main.1adb1ded.js.map": "/pine-portfolio/static/js/main.1adb1ded.js.map"
+    "main.css": "/Pine-Portfolio/static/css/main.9bd7a35e.css",
+    "main.js": "/Pine-Portfolio/static/js/main.75c48c3b.js",
+    "static/media/Me.jpg": "/Pine-Portfolio/static/media/Me.be4b24fb5552ab2243a6.jpg",
+    "static/media/gitlab-logo-100.jpg": "/Pine-Portfolio/static/media/gitlab-logo-100.1c1ad852e30f94688c6b.jpg",
+    "static/media/GitHub_Logo.png": "/Pine-Portfolio/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
+    "index.html": "/Pine-Portfolio/index.html",
+    "main.9bd7a35e.css.map": "/Pine-Portfolio/static/css/main.9bd7a35e.css.map",
+    "main.75c48c3b.js.map": "/Pine-Portfolio/static/js/main.75c48c3b.js.map"
   },
   "entrypoints": [
     "static/css/main.9bd7a35e.css",
-    "static/js/main.1adb1ded.js"
+    "static/js/main.75c48c3b.js"
   ]
 }
