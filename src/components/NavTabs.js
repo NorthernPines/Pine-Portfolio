@@ -4,7 +4,7 @@ import React from 'react';
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div className="navbar mx-3">
+    <div className="navbar px-3">
       <p className="display-3">Travis Walborn</p>
       <ul className="nav navbar-expand-lg justify-content-end">
         <li className="nav-item">
