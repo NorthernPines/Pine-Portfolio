@@ -10,8 +10,8 @@ https://northernpines.github.io/Pine-Portfolio/
 
 ## Tech Used
 
-- react
-- bootstrap
+- React
+- Bootstrap
 
 ## Creater Info
 
